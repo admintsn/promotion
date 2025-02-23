@@ -1233,7 +1233,7 @@
         <div class="grid grid-cols-3 gap-4 py-5 w-full">
             <div id="tanggalwaktu" class="text-start text-3xl px-6"></div>
             <div class="text-center text-5xl flex-nowrap">
-                <h1>SELAMAT DATANG
+                <h1>SELAMAT DATANG 
                 </br>TOKO KHARISMA SINE</h1>
             </div>
 
